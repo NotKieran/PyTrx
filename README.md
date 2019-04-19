@@ -1,5 +1,5 @@
 # Disclaimer
-This fork of PyTrx features the use of the active contour model to track glacier movement over time. This was added to the toolbox for part of the fufilment of my BEng at the university of York Computer Science Department.
+This fork of PyTrx features the use of the active contour model to track glacier movement over time. This was added to the toolbox for part of the fufilment of my BEng at the University of York Computer Science Department.
 
 # PyTrx
 PyTrx (short for 'Python Tracking') is a Python object-oriented toolbox created for the purpose of calculating real-world measurements from oblique images and time-lapse image series. Its primary purpose is to obtain velocities, surface areas, and distances from imagery of glacial environments.<br>
